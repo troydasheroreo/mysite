@@ -1,0 +1,31 @@
+      body{
+       font-weight: bold;
+       font-family: courier
+       
+  
+      }
+
+.orange {
+  color: orange;
+
+}
+
+.big {
+  font-size: 2em;
+
+}
+
+p, a {
+  border: 23px;
+  border-color:black;
+  background: rgba(120,40,28,19);
+  border-radius: 10px;
+  padding: 10px;
+  transition: background 0.8s;
+  text-direction: none;
+}
+
+p:hover, a:hover {
+  background: rgba(30,120,38,305);
+
+}
